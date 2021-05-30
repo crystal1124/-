@@ -1,4 +1,4 @@
-worker: python main.py
+worker: python index.py
 
 Aptfile
 git
